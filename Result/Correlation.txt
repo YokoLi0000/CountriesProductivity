@@ -1,0 +1,19 @@
+Correlation of LessDevelop's Productivity and Output-side real GDP per capita is: -0.314
+Correlation of LessDevelop's Productivity and Average annual hours per capita is: -0.570
+Correlation of LessDevelop's Productivity and Number of persons engaged per capita is: -0.416
+Correlation of LessDevelop's Productivity and CPI score per capita is: 0.422
+Correlation of LessDevelop's Productivity and Life Expectancy per capita is: 0.517
+Correlation of LessDevelop's Productivity and Health Care Index per capita is: -0.165
+Correlation of LessDevelop's Productivity and Crime Rate per capita is: -0.351
+Correlation of LessDevelop's Productivity and Quality of Life Index per capita is: 0.712
+Correlation of LessDevelop's Productivity and Human Capital Index per capita is: 0.648
+
+Correlation of MoreDevelop's Productivity and Output-side real GDP per capita is: 0.162
+Correlation of MoreDevelop's Productivity and Average annual hours per capita is: -0.487
+Correlation of MoreDevelop's Productivity and Number of persons engaged per capita is: 0.115
+Correlation of MoreDevelop's Productivity and CPI score per capita is: 0.564
+Correlation of MoreDevelop's Productivity and Life Expectancy per capita is: 0.307
+Correlation of MoreDevelop's Productivity and Health Care Index per capita is: -0.023
+Correlation of MoreDevelop's Productivity and Crime Rate per capita is: 0.256
+Correlation of MoreDevelop's Productivity and Quality of Life Index per capita is: 0.381
+Correlation of MoreDevelop's Productivity and Human Capital Index per capita is: 0.069
